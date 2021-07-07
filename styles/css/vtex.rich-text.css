@@ -533,3 +533,8 @@
   padding: 8px;
   text-transform: uppercase;
 }
+
+.link--botonprinci {
+  font-size: 14px;
+  color: white;
+}

@@ -2,7 +2,7 @@
     "store.custom#quines-us": {
         "path": "/quienes-somos"
       },
-    "store.custom#aviso-privacidad": {
+    "store.custom#privacidad": {
         "path": "/aviso-privacidad"
     },
     "store.custom#terminos": {
@@ -12,14 +12,11 @@
       "path": "/faqs"
     },
     
-    "store.custom#cookie": {
+    "store.custom#coockies": {
       "path": "/cookies"
     },
-    "store.custom#devolucion": {
+    "store.custom#devo": {
       "path": "/devolucion"
-    },
-    "store.custom#privacidad": {
-      "path": "/privacidad"
     }
 
   }

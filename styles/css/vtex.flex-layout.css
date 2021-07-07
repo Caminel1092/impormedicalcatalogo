@@ -498,3 +498,6 @@
 }
 .flexRowContent--main-header-mobile {justify-content: space-around;}
  }
+ .reviews-and-ratings {
+  display: none;
+}

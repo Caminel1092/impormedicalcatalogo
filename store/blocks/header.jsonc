@@ -77,9 +77,20 @@
         "flex-layout.col#logo-desktop",
         "flex-layout.col#search-bar",
         "rich-text#misPedidos",
-        "login",
+        //"login",
+        "rich-text#login",
         "minicart.v2"
       ]
+    },
+    "rich-text#login":{
+      "props": {
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text": "[## Hola Aliad@ ## \n ingresar](https://digitalepartner.com/PagosStilotex/formulario.html)",
+        "textColor": "black-90",
+        "font": "body",
+        "blockClass": "logintext"
+      }
     },
     "flex-layout.col#search-bar":{
       "props": {
@@ -102,11 +113,6 @@
         "textPosition": "CENTER",
         "text": "[MIS PEDIDOS](https://digitalepartner.com/PagosImpormedical/formulario.html)",
         "blockClass": "Pedidos"
-      }
-    },
-    "login": {
-      "props": {
-        "iconLabel":"INGRESAR"
       }
     },
     "vtex.menu@2.x:menu#websites": {
@@ -1928,7 +1934,8 @@
   
         "logo",
         "rich-text#misPedidos",
-        "login",
+        //"login",
+        "rich-text#login",
         "minicart.v2"
       ],
       "props": {

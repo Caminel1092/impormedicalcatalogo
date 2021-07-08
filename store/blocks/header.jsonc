@@ -86,7 +86,7 @@
       "props": {
         "textAlignment": "CENTER",
         "textPosition": "CENTER",
-        "text": "[## Hola Aliad@ ## \n ingresar](https://digitalepartner.com/PagosStilotex/formulario.html)",
+        "text": "[## Hola Aliad@ \n ingresar](https://login.impormedical.com.co/)",
         "textColor": "black-90",
         "font": "body",
         "blockClass": "logintext"

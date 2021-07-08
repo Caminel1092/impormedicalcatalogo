@@ -429,6 +429,9 @@
 
 /*--------------------------------------------------------------------------------------------------MOBILE!*/
 @media only screen and (max-width: 700px) {
+  .paragraph--logintext {
+    font-size: 11px;
+  }
   .container--textoquienM{
     margin: -19px -21px 0 13px; 
   }
@@ -541,3 +544,17 @@
 .paragraph--logintext {
   font-size: 14px;
 }
+.paragraph--logintext {content: "HOLA ALIAD@";text-align: center;color: black;font-size: 10px;text-decoration: none !important;}
+
+.link--logintext {
+    display: grid;
+    font-size: 13px;
+    text-align: center;
+    margin-top: -4px;
+    text-decoration: underline;
+    color: rgb(1, 70, 148) !important;
+    padding: 0 27px;
+    text-transform: capitalize !important;
+}
+
+

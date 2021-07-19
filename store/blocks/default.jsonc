@@ -11,7 +11,11 @@
   },
 
   "store.login": {
-    "blocks": ["info-card#bannerC1", "login-content#default", "info-card#boton-ver-carrito"]
+    "blocks": [
+      "info-card#bannerC1", 
+      "login-content#default", 
+      "info-card#boton-ver-carrito"
+    ]
   },
 
   "login-content#default": {

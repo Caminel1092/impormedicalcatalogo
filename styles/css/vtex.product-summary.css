@@ -267,8 +267,9 @@ display: block;
   padding: 7px 0 12px 10px;
   margin: 0 0px;
   justify-content: flex-start;
-  height: 46px;
+  max-height: 55px;
   margin-top: -10px;
+  min-height: 55px;
 }
 .productNameContainer {
   min-height: 55px;
@@ -278,7 +279,8 @@ display: block;
   color: #505050!important;
   font-size: 13px;
   font-weight: 300;
-  line-height: 0;
+  line-height: 15px;
+  display: block;
 }
 .currencyContainer{
 

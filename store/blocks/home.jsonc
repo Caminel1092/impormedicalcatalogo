@@ -14,9 +14,6 @@
   "responsive-layout.phone": {
     "children": ["store.home#Mobile"]
   },
-
-
-
   
     "store.home#desk": {
       "blocks": [

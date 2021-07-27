@@ -75,7 +75,7 @@
   text-decoration: none;
 }
 .infoCardContainer--marcas,
-.infoCardContainer--marcas-icon1,.infoCardContainer--marcas-icon2,.infoCardContainer--marcas-icon3,.infoCardContainer--marcas-icon4,
+.infoCardContainer--marcas-icon1,.infoCardContainer--marcas-icon2,.infoCardContainer--marcas-icon3,.infoCardContainer--marcas-icon20,
 .infoCardContainer--marcas-icon5, .infoCardContainer--marcas-icon6, .infoCardContainer--marcas-icon7,
 .infoCardContainer--marcas-icon8, .infoCardContainer--marcas-icon9, .infoCardContainer--marcas-icon10,
 .infoCardContainer--marcas-icon11, .infoCardContainer--marcas-icon12, .infoCardContainer--marcas-icon13,
@@ -85,19 +85,19 @@
   background: transparent;
 }
 .infoCardTextContainer--marcas, .infoCardImageContainer--marcas, 
-.infoCardTextContainer--marcas-icon1,.infoCardTextContainer--marcas-icon2,.infoCardTextContainer--marcas-icon3,.infoCardTextContainer--marcas-icon4,
+.infoCardTextContainer--marcas-icon1,.infoCardTextContainer--marcas-icon2,.infoCardTextContainer--marcas-icon3,.infoCardTextContainer--marcas-icon20,
 .infoCardTextContainer--marcas-icon5, .infoCardTextContainer--marcas-icon6, .infoCardTextContainer--marcas-icon7,
 .infoCardTextContainer--marcas-icon8, .infoCardTextContainer--marcas-icon9, .infoCardTextContainer--marcas-icon10,
 .infoCardTextContainer--marcas-icon11, .infoCardTextContainer--marcas-icon12, .infoCardTextContainer--marcas-icon13,
 .infoCardTextContainer--marcas-icon14,
-.infoCardImageContainer--marcas-icon1,.infoCardImageContainer--marcas-icon2,.infoCardImageContainer--marcas-icon3,.infoCardImageContainer--marcas-icon4,
+.infoCardImageContainer--marcas-icon1,.infoCardImageContainer--marcas-icon2,.infoCardImageContainer--marcas-icon3,.infoCardImageContainer--marcas-icon20,
 .infoCardImageContainer--marcas-icon5, .infoCardImageContainer--marcas-icon6, .infoCardImageContainer--marcas-icon7,
 .infoCardImageContainer--marcas-icon8, .infoCardImageContainer--marcas-icon9, .infoCardImageContainer--marcas-icon10,
 .infoCardImageContainer--marcas-icon11, .infoCardImageContainer--marcas-icon12, .infoCardImageContainer--marcas-icon13,
 .infoCardImageContainer--marcas-icon14{
   width: 100%;
 } 
-.infoCardImageContainer--marcas-icon1,.infoCardImageContainer--marcas-icon2,.infoCardImageContainer--marcas-icon3,.infoCardImageContainer--marcas-icon4,
+.infoCardImageContainer--marcas-icon1,.infoCardImageContainer--marcas-icon2,.infoCardImageContainer--marcas-icon3,.infoCardImageContainer--marcas-icon20,
 .infoCardImageContainer--marcas-icon5, .infoCardImageContainer--marcas-icon6, .infoCardImageContainer--marcas-icon7,
 .infoCardImageContainer--marcas-icon8, .infoCardImageContainer--marcas-icon9, .infoCardImageContainer--marcas-icon10,
 .infoCardImageContainer--marcas-icon11, .infoCardImageContainer--marcas-icon12, .infoCardImageContainer--marcas-icon13,
@@ -105,7 +105,7 @@
   padding-bottom: 50px;
 }
 .infoCardContainer--marcas,  
-.infoCardContainer--marcas-icon1,.infoCardContainer--marcas-icon2,.infoCardContainer--marcas-icon3,.infoCardContainer--marcas-icon4,
+.infoCardContainer--marcas-icon1,.infoCardContainer--marcas-icon2,.infoCardContainer--marcas-icon3,.infoCardContainer--marcas-icon20,
 .infoCardContainer--marcas-icon5, .infoCardContainer--marcas-icon6, .infoCardContainer--marcas-icon7,
 .infoCardContainer--marcas-icon8, .infoCardContainer--marcas-icon9, .infoCardContainer--marcas-icon10,
 .infoCardContainer--marcas-icon11, .infoCardContainer--marcas-icon12, .infoCardContainer--marcas-icon13,
@@ -114,7 +114,7 @@
 }
 
 .infoCardCallActionContainer--marcas,  
-.infoCardCallActionContainer--marcas-icon1,.infoCardCallActionContainer--marcas-icon2,.infoCardCallActionContainer--marcas-icon3,.infoCardCallActionContainer--marcas-icon4,
+.infoCardCallActionContainer--marcas-icon1,.infoCardCallActionContainer--marcas-icon2,.infoCardCallActionContainer--marcas-icon3,.infoCardCallActionContainer--marcas-icon20,
 .infoCardCallActionContainer--marcas-icon5, .infoCardCallActionContainer--marcas-icon6, .infoCardCallActionContainer--marcas-icon7,
 .infoCardCallActionContainer--marcas-icon8, .infoCardCallActionContainer--marcas-icon9, .infoCardCallActionContainer--marcas-icon10,
 .infoCardCallActionContainer--marcas-icon11, .infoCardCallActionContainer--marcas-icon12, .infoCardCallActionContainer--marcas-icon13,
@@ -126,7 +126,7 @@
   z-index: 99;
 }
 .infoCardTextContainer--marcas,  
-.infoCardTextContainer--marcas-icon1,.infoCardTextContainer--marcas-icon2,.infoCardTextContainer--marcas-icon3,.infoCardTextContainer--marcas-icon4,
+.infoCardTextContainer--marcas-icon1,.infoCardTextContainer--marcas-icon2,.infoCardTextContainer--marcas-icon3,.infoCardTextContainer--marcas-icon20,
 .infoCardTextContainer--marcas-icon5, .infoCardTextContainer--marcas-icon6, .infoCardTextContainer--marcas-icon7,
 .infoCardTextContainer--marcas-icon8, .infoCardTextContainer--marcas-icon9, .infoCardTextContainer--marcas-icon10,
 .infoCardTextContainer--marcas-icon11, .infoCardTextContainer--marcas-icon12, .infoCardTextContainer--marcas-icon13,
@@ -134,7 +134,7 @@
   position: absolute;
   bottom: 25px;
 }
-.infoCardCallActionText--marcas-icon1,.infoCardCallActionText--marcas-icon2,.infoCardCallActionText--marcas-icon3,.infoCardCallActionText--marcas-icon4,
+.infoCardCallActionText--marcas-icon1,.infoCardCallActionText--marcas-icon2,.infoCardCallActionText--marcas-icon3,.infoCardCallActionText--marcas-icon20,
 .infoCardCallActionText--marcas-icon5, .infoCardCallActionText--marcas-icon6, .infoCardCallActionText--marcas-icon7,
 .infoCardCallActionText--marcas-icon8, .infoCardCallActionText--marcas-icon9, .infoCardCallActionText--marcas-icon10,
 .infoCardCallActionText--marcas-icon11, .infoCardCallActionText--marcas-icon12, .infoCardCallActionText--marcas-icon13,
@@ -155,6 +155,14 @@
   z-index: 9;
 }
 .infoCardContainer--marcas-icon3:hover .infoCardImage--marcas-icon3{
+  filter: brightness(0.7);
+}
+
+.infoCardContainer--marcas-icon20:hover .infoCardImageContainer--marcas-icon20::before{
+  opacity: 1;
+  z-index: 9;
+}
+.infoCardContainer--marcas-icon20:hover .infoCardImage--marcas-icon20{
   filter: brightness(0.7);
 }
 .infoCardImage--marcas{
@@ -499,7 +507,7 @@
   opacity: 0;
   cursor: pointer;
 }
-.infoCardImage--marcas-icon3, .infoCardImage--marcas-icon4, .infoCardImage--marcas-icon1, .infoCardImage--marcas-icon2, .infoCardImage--marcas-icon4, .infoCardImage--marcas-icon5, .infoCardImage--marcas-icon5, .infoCardImage--marcas-icon7, .infoCardImage--marcas-icon8, .infoCardImage--marcas-icon9, .infoCardImage--marcas-icon10, .infoCardImage--marcas-icon11, .infoCardImage--marcas-icon12, .infoCardImage--marcas-icon13, .infoCardImage--marcas-icon14{
+.infoCardImage--marcas-icon3, .infoCardImage--marcas-icon20, .infoCardImage--marcas-icon1, .infoCardImage--marcas-icon2, .infoCardImage--marcas-icon4, .infoCardImage--marcas-icon5, .infoCardImage--marcas-icon5, .infoCardImage--marcas-icon7, .infoCardImage--marcas-icon8, .infoCardImage--marcas-icon9, .infoCardImage--marcas-icon10, .infoCardImage--marcas-icon11, .infoCardImage--marcas-icon12, .infoCardImage--marcas-icon13, .infoCardImage--marcas-icon14{
   transition: all 400ms;
   cursor: pointer;
 }
@@ -511,8 +519,34 @@
   /*opacity: 0.8;*/
   filter: brightness(0.4);
 }
+/*Ctegoria 3*/
+.infoCardImageContainer--marcas-icon20::before{
+  content: "";
+  background: url(https://impormedical.vteximg.com.br/arquivos/4_iconsillaruedas.png)no-repeat;
+  background-size: 100%;
+  font-size: 10px;
+  display: block;
+  width: 100px;
+  height: 102px;
+  margin-top: 0px;
+  position: absolute;
+  top: 20%;
+  transition: all 40ms;
+  left: 33%;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.infoCardImageContainer--marcas-icon20:hover::before{
+  opacity: 1;
+  z-index: 99;
+}
+.infoCardContainer--marcas-icon20:hover .infoCardImage--marcas-icon20{
+  /*opacity: 0.8;*/
+  filter: brightness(0.4);
+}
 /*Ctegoria 4*/
-.infoCardImageContainer--marcas-icon4::before{
+/*.infoCardImageContainer--marcas-icon4::before{
   content: "";
   background: url(https://impormedical.vtexassets.com/arquivos/4_iconsillaruedas.png)no-repeat;
   background-size: 100%;
@@ -534,8 +568,8 @@
 }
 .infoCardContainer--marcas-icon4:hover .infoCardImage--marcas-icon4{
   /*opacity: 0.8;*/
-  filter: brightness(0.4);
-}
+  /*filter: brightness(0.4);
+}*/
 /*Ctegoria 1*/
 .infoCardImageContainer--marcas-icon1::before{
   content: "";
@@ -851,7 +885,7 @@
 .infoCardContainer--marcas-icon3:hover .infoCardCallActionText--marcas-icon3 {
   color: #0a68e6;
 }
-.infoCardContainer--marcas-icon4:hover .infoCardCallActionText--marcas-icon4 {
+.infoCardContainer--marcas-icon20:hover .infoCardCallActionText--marcas-icon20 {
   color: #0a68e6;
 }
 .infoCardContainer--marcas-icon5:hover .infoCardCallActionText--marcas-icon5 {
@@ -1354,7 +1388,7 @@ height: 100%;
     min-height: auto;
     padding: 12% 0;
   }
-  .infoCardImage--marcas-icon1, .infoCardImage--marcas-icon2, .infoCardImage--marcas-icon3, .infoCardImage--marcas-icon4, .infoCardImage--marcas-icon5, .infoCardImage--marcas-icon6, .infoCardImage--marcas-icon7, .infoCardImage--marcas-icon8, .infoCardImage--marcas-icon9, .infoCardImage--marcas-icon10, .infoCardImage--marcas-icon11, .infoCardImage--marcas-icon12, .infoCardImage--marcas-icon13, .infoCardImage--marcas-icon14 {
+  .infoCardImage--marcas-icon1, .infoCardImage--marcas-icon2, .infoCardImage--marcas-icon3, .infoCardImage--marcas-icon20, .infoCardImage--marcas-icon5, .infoCardImage--marcas-icon6, .infoCardImage--marcas-icon7, .infoCardImage--marcas-icon8, .infoCardImage--marcas-icon9, .infoCardImage--marcas-icon10, .infoCardImage--marcas-icon11, .infoCardImage--marcas-icon12, .infoCardImage--marcas-icon13, .infoCardImage--marcas-icon14 {
     width: 96%;
     display: block;
     border-radius: 5px;
@@ -1566,6 +1600,21 @@ height: 100%;
   .infoCardImageContainer--marcas-icon3::before {
     content: "";
     background: url(https://impormedical.vteximg.com.br/arquivos/3_icontapabocas.png);
+    position: absolute;
+    width: 68px;
+    background-size: 100%;
+    height: 60px;
+    z-index: 999;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0 auto;
+    top: 20%;
+    right: 0;
+    left: 0; opacity: 1;
+  }
+  .infoCardImageContainer--marcas-icon20::before {
+    content: "";
+    background: url(https://impormedical.vteximg.com.br/arquivos/4_iconsillaruedas.png);
     position: absolute;
     width: 68px;
     background-size: 100%;

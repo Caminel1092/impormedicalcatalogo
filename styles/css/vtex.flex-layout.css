@@ -276,10 +276,10 @@
   display: none;
 }
 .flexRowContent--submenu1 {
-  position: absolute;
+  min-width: 900px;
   width: 100%;
   /*justify-content: space-around;*/
-  top: 0;
+  
 }
 .flexColChild--ratings-only:last-child {
   display: none;

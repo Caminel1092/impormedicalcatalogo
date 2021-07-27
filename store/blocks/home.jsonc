@@ -168,13 +168,13 @@
         "info-card#marca4":{
           "props":{
             "id":"texting",
-            "imageUrl":"https://impormedical.vteximg.com.br/arquivos/4_imgsillaruedas.png",
-            "callToActionUrl": "/Movilidad",
+            "imageUrl":"https://impormedical.vteximg.com.br/arquivos/3_imgtapabocas.png",
+            "callToActionUrl": "/164?map=productClusterIds&order=",
             "textPosition": "CENTER",
             "textAlignment": "CENTER",
             "callToActionText": "Movilidad",
             "callToActionMode": "link",
-            "blockClass":"marcas-icon4"
+            "blockClass":"marcas-icon20"
           }
         },
         "info-card#marca5":{

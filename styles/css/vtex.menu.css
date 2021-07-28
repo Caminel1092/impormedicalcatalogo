@@ -46,6 +46,7 @@
 
 .submenu .menuItem {
   /*  min-height: 24.8px;*/
+    position: relative;
     padding: 3px 0;
     display: flex;
 }
@@ -357,6 +358,7 @@
 .styledLinkContainer {
     margin-left: 15px;
     width: 100%;
+    position: relative;
 }
 /*
 .styledLinkContent::after {
@@ -368,6 +370,41 @@
 }
 /*
 .styledLinkContent--SubCategory::before {content: "-";}*/
+.styledLinkContent--SubCategory{
+    color: black;
+}
+.styledLinkContainer--department::before{
+    content: "";
+    background: url(https://impormedical.vtexassets.com/arquivos/IconoFlechaAbajo.png)no-repeat;
+    background-size: 100%;
+    font-size: 5px;
+    width: 19px;
+    height: 23px;
+    margin-top: 0px;
+    top: 13px;
+    right: -14px;
+    transition: all 40ms;
+    position: absolute;
+    margin-right: 10px;
+}
+.menuItem--category::before{
+    content: "";
+    background: url(https://impormedical.vtexassets.com/arquivos/IconoFlechaAbajo.png)no-repeat;
+    background-size: 100%;
+    font-size: 5px;
+    width: 16px;
+    height: 23px;
+    margin-top: 0px;
+    top: 10px;
+    right: -28px;
+    transition: all 40ms;
+    position: absolute;
+    margin-right: 10px;
+} 
+.styledLinkContent--department {
+    display: block;
+    width: 93%;
+}
 }
 .submenuContainer--SubMenus {
     top: 33px;

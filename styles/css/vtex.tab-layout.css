@@ -311,9 +311,9 @@
     font-size: 16px;
 }
 .container--productM .listItem :global(.vtex-button__label) {
-    color: white;
+    color: #0170e3 !important;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 14px
 }
 .container--productM .listItem::before {
     content: "";

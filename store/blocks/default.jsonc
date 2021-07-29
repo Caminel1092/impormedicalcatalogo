@@ -17,7 +17,16 @@
       "info-card#boton-ver-carrito"
     ]
   },
-
+  "product-summary.shelf#vitrina2": {
+    "children": [
+      "product-summary-image",
+      "product-summary-add-to-list-button",
+      "product-summary-name",
+      "product-summary-sku-selector",
+      "flex-layout.row#pricing",
+      "flex-layout.row#vitrina"
+    ]
+  },
   "login-content#default": {
     "props": {
       "isInitialScreenOptionOnly": false,

@@ -108,7 +108,28 @@
         "showOnMobile": true
       }
     },
-
+    "search-result-layout.mobile": {
+      "children": [
+        "info-card#bannerC",
+        "info-card#bannerMobile",
+        "breadcrumb.search",
+        "search-title.v2",
+        "flex-layout.row#catego"
+      ],
+      "props": {
+        "maxItemsPerPage": 16
+      }
+    },
+    "info-card#bannerMobile":{
+      "props":{
+        "id":"texting",
+        "imageUrl":"https://impormedical.vteximg.com.br/arquivos/SillasruedasMovilidad.png",
+        "callToActionUrl": "#",
+        "textPosition": "CENTER",
+        "textAlignment": "CENTER",
+        "blockClass":"bannerM"
+      }
+    },
     //Banner principal
     "info-card#bannerC":{
       "props":{

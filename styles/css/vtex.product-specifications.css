@@ -139,6 +139,18 @@
 @media only screen and (max-width: 700px) {
     .specificationValue--last {font-size: 12px;}
     .specificationName {
-        font-size: 15px;
+        font-size: 13px;
+        margin: 4px 0 0 0 !important;
     }
+    .groupName--especificacionesUno {
+        display: none;
+    }
+    .specificationName--especificacionesBENE {
+        background: white;
+    }
+    
+    .groupName--especificacionesBENE {
+        display: none;
+    }
+
 }

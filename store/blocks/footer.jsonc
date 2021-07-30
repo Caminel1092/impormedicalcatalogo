@@ -394,7 +394,7 @@
       "textAlignment": "left",
       "font": "t-heading-3",
       "textPosition": "left",
-      "blockClass": "titleF"
+      "blockClass": "titleFc"
     }
   },
   "form#newsletter": {

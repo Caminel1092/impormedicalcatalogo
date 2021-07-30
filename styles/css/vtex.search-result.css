@@ -910,9 +910,22 @@
 
 
 
-
-
-
+.container--layout--primeroC{
+    display: block;
+}
+.container--layout--segundoC {
+    display: none;   
+}
+.filterItem--selected :global(.vtex-checkbox__label){
+    color: #0070e1;
+    font-weight: 700;
+}
+.filter__container--priceRange{
+    display: none;
+}
+.galleryTitle--layout {
+    line-height: 41px;
+}
 /*------------------------------------------------------------------------------------------------MOBILE*/
 @media (max-width: 700px) {
 .galleryTitle--layout{
@@ -925,6 +938,12 @@
     border-bottom: 1px solid #E5E5E5;
     padding-bottom: 21px;
     padding-top: 9px;
+}
+.container--layout--primeroC{
+    display: none !important;
+}
+.container--layout--segundoC {
+    display: block !important;   
 }
 .accordionFilterItemTitle {
     font-size: 14px !important;

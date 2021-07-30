@@ -5,11 +5,12 @@
     background: #deec00;
     border-radius: 5px;
     height: auto;
+    max-height: 82%;
     margin: 2px 0 0 8px;
 }
 .formSubmitContainer :global(.vtex-button__label) {
     color: #191531;
-    padding: 10px!important;
+    padding: 9px 11px!important;
 }
 .confirmationCheckboxContainer :global(.vtex-checkbox__label) {
     color: white;
@@ -38,6 +39,9 @@
     .emailInputContainer {
         width: 256px;
         margin: 0 auto;
+    }
+    .emailInputContainer :global(.vtex-input-prefix__group){
+        margin: 0 0 0 -2px;
     }
     .confirmationCheckboxContainer {
         width: 90%;

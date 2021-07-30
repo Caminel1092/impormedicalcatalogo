@@ -160,12 +160,14 @@
       }
       .container--chats :global(.vtex-button__label)::before {
         content: "";
-        width: 51px;
-        height: 36px;
+        width: 36px;
+        height: 26px;
         background: url(https://impormedical.vteximg.com.br/arquivos/logochatimpormedical.png);
-        background-size: 100%;
+        background-size: 60%;
         background-repeat: no-repeat;
-        margin: 5px 0 0;
+        margin: 0px 0 0 10px;
+        padding: 12px;
+        background-position: center;
     }
     /*
 .contentContainer{

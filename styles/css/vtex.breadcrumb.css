@@ -13,6 +13,15 @@
 .homeLink {
     display: none;
 }
+.caretIcon {
+    display: none;
+}
+.arrow--RUTACATEGORIA{
+    display: flex !important;
+}
+.arrow--RUTACATEGORIA--3::before, .arrow--RUTACATEGORIA--4::before, .arrow--RUTACATEGORIA--5::before {
+    content: "/";
+}
 /*
 :global(.vtex-breadcrumb-1-x-arrow--1) {
     display: flex;

@@ -10,8 +10,8 @@
      /* "shelf.relatedProducts",*/
       "shelf#demo5",
       "rich-text#product2",
-    /*  "shelf.relatedProducts#2",*/
-      "shelf#demo6"
+      "shelf.relatedProducts#2"
+      //"shelf#demo6"
     ]
   },
   
@@ -200,7 +200,7 @@
     },
     "shelf.relatedProducts#2": {
       "props": {
-          "recommendation": "view",
+          "recommendation": "accessories",
           "blockClass": "bannerRecomendados",
           "productList": {
               "titleText": "Nuestras Marcas",

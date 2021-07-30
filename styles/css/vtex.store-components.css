@@ -1978,6 +1978,9 @@ height: auto !important;
 .price_sellingPrice {
   display: none;
 }
-.infoCardCallActionContainer{
-  
+.searchResultContainer--segundoC{
+  display: none;
+}
+.imageElement--BannerProductPromo{
+  width: 100%;
 }

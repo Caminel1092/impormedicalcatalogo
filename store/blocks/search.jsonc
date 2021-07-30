@@ -97,8 +97,8 @@
       ],
       "props": {
         "minItemsPerPage": 12,
-        "maxItemsPerPage": 15
-
+        "maxItemsPerPage": 15,
+        "blockClass": "primeroC"
       }
     },
 
@@ -117,7 +117,8 @@
         "flex-layout.row#catego"
       ],
       "props": {
-        "maxItemsPerPage": 16
+        "maxItemsPerPage": 16,
+        "blockClass": "segundoC"
       }
     },
     "info-card#bannerMobile":{

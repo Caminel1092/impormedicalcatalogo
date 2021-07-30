@@ -13,6 +13,7 @@
   .content--hidden{
       display: none;
   }
+  @media only screen and (max-width: 800px) {
   .trigger::before {
     content: "";
     background: url(https://impormedical.vtexassets.com/arquivos/IconoFlechaAbajo.png)no-repeat;
@@ -27,3 +28,7 @@
     position: absolute;
     margin-right: 10px;
   }
+  .trigger--SubMenuMovilidad::before{
+    display: none;
+  }
+}

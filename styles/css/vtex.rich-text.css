@@ -429,9 +429,13 @@
 
 
 /*--------------------------------------------------------------------------------------------------MOBILE!*/
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
   .container--titleFc {
     margin: 0 5%;
+}
+.paragraph--titleFc {
+  font-size: 14px;
+  color: #88a20e;
 }
   .paragraph--logintext {
     font-size: 11px;

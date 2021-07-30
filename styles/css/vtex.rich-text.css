@@ -437,6 +437,23 @@
   .container--titleFc {
     margin: 0 5%;
 }
+
+
+.container--TituloMobile {
+  width: 100%;
+}
+
+.wrapper--TituloMobile {
+  display: block;
+  width: 100%;
+}
+
+
+
+.container--TituloMobile {
+  display: block;
+  width: 100%;
+}
 .paragraph--titleFc {
   font-size: 14px !important;
 }

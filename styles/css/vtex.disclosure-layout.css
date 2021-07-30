@@ -1,0 +1,15 @@
+.trigger--visible {
+    display: block;
+    width: 100% !important;
+  }
+  .trigger--hidden {
+    width: 100% !important;
+    display: block;
+  }
+  .trigger {
+      width: 100% !important;
+      display: block;
+  }
+  .content--hidden{
+      display: none;
+  }

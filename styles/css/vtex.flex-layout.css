@@ -258,7 +258,7 @@
 .flexRowContent--FaqsColumnM {
   display: none;
 }
-.flexRowContent--FaqsColumnM .flexColChild::before {
+/*.flexRowContent--FaqsColumnM .flexColChild::before {
   content: "";
   background: url(https://impormedical.vtexassets.com/arquivos/IconoFlechaAbajo.png)no-repeat;
   background-size: 100%;
@@ -271,7 +271,7 @@
   transition: all 40ms;
   position: absolute;
   margin-right: 10px;
-}
+}*/
 .flexRow--TituloInstitucionalM {
   display: none;
 }

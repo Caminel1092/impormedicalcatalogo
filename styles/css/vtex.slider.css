@@ -44,7 +44,8 @@
     }
     
     .sliderFrame {
-        width: 655% !important;
+        width: auto;
     }
+
 
 }

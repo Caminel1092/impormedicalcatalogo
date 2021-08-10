@@ -110,6 +110,12 @@
 .specificationValue--especificacionesRECO[data-specification-name="Recomendado para"] {
   display: block;
 }
+.specificationName--especificacionesRECO[data-specification-name="Recomendado para:"] {
+    display: block;
+  }
+.specificationValue--especificacionesRECO[data-specification-name="Recomendado para:"] {
+    display: block;
+  }
 
 .specificationName--especificacionesUno[data-specification-name="Recomendado para"] {
     display: none;
@@ -117,7 +123,12 @@
 .specificationValue--especificacionesUno[data-specification-name="Recomendado para"] {
     display: none;
   }
-
+  .specificationName--especificacionesUno[data-specification-name="Recomendado para:"] {
+    display: none;
+  }
+.specificationValue--especificacionesUno[data-specification-name="Recomendado para:"] {
+    display: none;
+  }
 
 
 
